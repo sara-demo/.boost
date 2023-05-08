@@ -1,2 +1,2 @@
 # .boost
-repo for zip on GitHub
+repo for ztp on GitHub
